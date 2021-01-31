@@ -9,12 +9,12 @@
 > - Currently, I am doing some projects, specially Kaggle's ones.
 >   - 🤺 The one that I'm more involved right now is a comparison between different algorithms in some pretty classic datasets. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
 > - :dancers: I'm interest in projects related with AI and/or DS. 
-> - ⚡ Fun fact: I'm somewhat a reserved person, but I do like to talk about things that I find interesting. Besides tech-related things, the list includes dogs, cats, music, food and games.
+> - ⚡ Fun fact: I'm somewhat a reserved person, but I do like to talk about things that I find interesting. Besides tech-related things, the list includes dogs, cats, music, food, and games.
 
 
 #### A *too long didn't read* version:
 > * 22 yo
-> * Loves Data Science and Machine Learning, specially Computer Vision
+> * Interested in Data Science and Machine Learning, specially Computer Vision
 > * Computer Engineering, UFG
 > * :smile_cat: Loves cats 
 
