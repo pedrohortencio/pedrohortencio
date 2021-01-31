@@ -1,4 +1,4 @@
-## :wave:
+# :wave:
 
 > - 👨‍💻 Hi! I'm 22 yo and a Computer Engineering student at Federal University of Goiás (UFG).
 > - :books: I had a class, at university, about Artificial Intelligence and I become fascinated about the field. Since then, I did a lot of other courses, specializations and projects. The specializations I enjoyed the most was:
@@ -12,13 +12,16 @@
 > - ⚡ Fun fact: I'm somewhat a reserved person, but I do like to talk about things that I find interesting. Besides tech-related things, the list includes dogs, cats, music, food, and games.
 
 
-#### A *too long didn't read* version:
+### A *too long didn't read* version:
 > * 22 yo
 > * Interested in Data Science and Machine Learning, specially Computer Vision
 > * Computer Engineering, UFG
 > * :smile_cat: Loves cats 
 
-### Stats
+### Currently Working On
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrohortencio&show_icons=true&theme=prussian&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) 
 
