@@ -19,7 +19,7 @@
 > * :smile_cat: Loves cats 
 
 ### Currently Working On
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/pedrohortencio/machine-learning-gladiator)
 
 ## Stats
 
