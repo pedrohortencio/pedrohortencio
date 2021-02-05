@@ -18,12 +18,17 @@
 > * Computer Engineering, UFG
 > * :smile_cat: Loves cats 
 
-### Currently Working On
+### Current Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/pedrohortencio/machine-learning-gladiator)
 
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrohortencio&show_icons=true&theme=prussian&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) 
+
+## Working With:
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />  <img alt="sklearn" src="https://img.shields.io/badge/scikit-learn.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+
 
 ## 📫 
 
