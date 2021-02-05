@@ -1,7 +1,7 @@
 # :wave:
 
 > - 👨‍💻 Hi! I'm 22 yo and a Computer Engineering student at Federal University of Goiás (UFG).
-> - :books: I had a class, at university, about Artificial Intelligence and I become fascinated about the field. Since then, I did a lot of other courses, specializations and projects. The specializations I enjoyed the most was:
+> - :books: I had a class, at university, about Artificial Intelligence and I've become fascinated about the field. Since then, I did a lot of other courses, specializations and projects. The specializations I enjoyed the most was:
 >   - :bar_chart: Applied Data Science with Python
 >   -  🧠 TensorFlow Developer
 >   -  🧠 TensorFlow Data and Deployment
