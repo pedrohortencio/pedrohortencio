@@ -1,15 +1,15 @@
 # :wave:
 
 > - 👨‍💻 Hi! I'm 22 yo and a Computer Engineering student at Federal University of Goiás (UFG).
-> - :books: I had a class, at university, about Artificial Intelligence and I've become fascinated about the field. Since then, I did a lot of other courses, specializations and projects. The specializations I enjoyed the most was:
+> - :books: I had a class at university about Artificial Intelligence and I've become fascinated about the field. Since then, I did some other courses, specializations and projects. The specializations I enjoyed the most was:
 >   - :bar_chart: Applied Data Science with Python
 >   -  🧠 TensorFlow Developer
 >   -  🧠 TensorFlow Data and Deployment
 >   - :cloud: Cloud Architect with Google Cloud Platform
 > - Currently, I am doing some projects, specially Kaggle's ones.
->   - 🤺 The one that I'm more involved right now is a comparison between different algorithms in some pretty classic datasets. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
-> - :dancers: I'm interest in projects related to AI and/or DS. 
-> - ⚡ Fun fact: I'm somewhat a reserved person, but I do like to talk about things that I find interesting. Besides tech-related things, the list includes dogs, cats, music, food, and games.
+>   - 🤺 The project that I'm more involved right now is a series of comparisons between different algorithms' scores in classic datasets. The goal is to explore how each model performs with out-of-the-box settings and with fine-tuning (Grid Search, hyperparameter tuning, transfer learning, etc) and compare the results. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
+> - :dancers: I'm interest in projects related to Artificial Intelligence and/or Data Science. 
+> - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games, especially RPGs.
 
 
 ### A *too long didn't read* version:
