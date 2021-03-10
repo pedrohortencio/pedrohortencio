@@ -18,8 +18,10 @@
 > * Computer Engineering, UFG
 > * :smile_cat: Loves cats 
 
-### Current Project
+## Current Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/pedrohortencio/machine-learning-gladiator)
+
+> - :grey_exclamation: I have a lot of problems opening the Jupyter Notebooks throughout GitHub. Very often I face the _"Sorry, something went wrong. Reload?"_ error. I learned to use the [NBViewer](https://nbviewer.jupyter.org/), from the Project Jupyter, to visualize the content of a Jupyter Notebook hosted on GitHub (and other platforms). It's just a matter of pasting the notebook's URL in the site.
 
 ## Stats
 
