@@ -7,7 +7,8 @@
 >   -  🧠 TensorFlow Data and Deployment
 >   - :cloud: Cloud Architect with Google Cloud Platform
 > - Currently, I am doing some projects, specially Kaggle's ones.
->   - 🤺 The project that I'm more involved right now is a series of comparisons between different algorithms' scores in classic datasets. The goal is to explore how each model performs with out-of-the-box settings and with fine-tuning (Grid Search, hyperparameter tuning, transfer learning, etc) and compare the results. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
+>   - 🤺 I'm comparing and documenting how different algorithms performs in classic datasets. The goal is to explore how well the models perform with out-of-the-box settings and with fine-tuning (Grid Search, hyperparameter tuning, transfer learning, etc). I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
+>   - :speech_balloon: I'm also exploring sentiment analysis using Neural Networks. I even built a notebook that classifies a review (or any sentence) into "Positive" or "Negative". It can be found and ran in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/sentiment-analysis/blob/main/IMDB%20Reviews/Review_Analyzer.ipynb).
 > - :dancers: I'm interest in projects related to Artificial Intelligence and/or Data Science. 
 > - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games, especially RPGs.
 
