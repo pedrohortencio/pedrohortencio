@@ -6,9 +6,10 @@
 >   -  🧠 TensorFlow Developer
 >   -  🧠 TensorFlow Data and Deployment
 >   - :cloud: Cloud Architect with Google Cloud Platform
-> - Currently, I am doing some projects, specially Kaggle's ones.
->   - 🤺 I'm comparing and documenting how different algorithms perform in classic datasets, both with out-of-the-box settings and with fine-tuning (Grid Search, hyperparameter tuning, transfer learning, etc). I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
->   - :speech_balloon: I'm also exploring sentiment analysis using Neural Networks. I even built a notebook that classifies a review (or any sentence) into "Positive" or "Negative". It can be found and ran in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/sentiment-analysis/blob/main/IMDB%20Reviews/Review_Analyzer.ipynb).
+> - Currently, I am doing some fun projects just to try out the algorithms and frameworks. Some of them:
+>   - 🤺 I'm comparing and documenting how different algorithms perform in classic datasets, both with out-of-the-box settings and with fine-tuning. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
+>   - :speech_balloon: I'm also exploring sentiment analysis using Neural Networks. I built a notebook that classifies the sentiment of a review (or any sentence) into "Positive" or "Negative". It can be found and ran in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/sentiment-analysis/blob/main/IMDB%20Reviews/Review_Analyzer.ipynb).
+>   - :writing_hand: I also built a NLP model that generates poetry with a Machado de Assis-like style. It runs in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/text-generator/blob/main/Poetry%20Generator/Generate_a_Random_Poetry.ipynb) (but it's in Portuguese for now).
 > - :dancers: I'm interest in projects related to Artificial Intelligence and/or Data Science. 
 > - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games, especially RPGs.
 
