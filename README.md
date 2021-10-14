@@ -6,11 +6,6 @@
 > - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games (especially RPGs).
 
 
-### A *too long didn't read* version:
-> * 23 yo
-> * Interested in Data Science and Machine Learning, specially Computer Vision and Natural Language Processing 
-> * Computer Engineering at UFG
-> * :smile_cat: Loves cats 
 
 ## Current Projects
 
