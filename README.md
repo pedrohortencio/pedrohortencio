@@ -1,28 +1,20 @@
 # :wave:
 
-> - 👨‍💻 Hi! I'm 22 yo and a Computer Engineering student at Federal University of Goiás (UFG).
-> - :books: I had a class at university about Artificial Intelligence and I've become fascinated about the field. Since then, I did some other courses, specializations and projects. The specializations I enjoyed the most were:
->   - :bar_chart: Applied Data Science with Python
->   -  🧠 TensorFlow Developer
->   -  🧠 TensorFlow Data and Deployment
->   - :cloud: Cloud Architect with Google Cloud Platform
-> - Currently, I am doing some fun projects just to try out the algorithms and frameworks. Some of them:
->   - 🤺 I'm comparing and documenting how different algorithms perform in classic datasets, both with out-of-the-box settings and with fine-tuning. I kindly named it [Machine Learning Gladiator](https://github.com/pedrohortencio/machine-learning-gladiator).
->   - :speech_balloon: I'm also exploring sentiment analysis using Neural Networks. I built a notebook that classifies the sentiment of a review (or any sentence) into "Positive" or "Negative". It can be found and ran in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/sentiment-analysis/blob/main/IMDB%20Reviews/Review_Analyzer.ipynb).
->   - :writing_hand: I also built a NLP model that generates poetry with a Machado de Assis-like style. It runs in this [Google Colab Notebook](https://colab.research.google.com/github/pedrohortencio/text-generator/blob/main/Poetry%20Generator/Generate_a_Random_Poetry.ipynb) (but it's in Portuguese for now).
-> - :dancers: I'm interest in projects related to Artificial Intelligence and/or Data Science. 
-> - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games, especially RPGs.
+> - 👨‍💻 Hi! I'm 23 yo and a Computer Engineering student at Federal University of Goiás (UFG).
+> - 🔭 Currently, I'm a researcher at Artificial Intelligence Excellence Center ([CEIA/UFG](https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/)), working in NLP and Automated Machine Learning projects. 
+> - :dancers: I'm interested in projects related to Artificial Intelligence and/or Data Science. 
+> - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games (especially RPGs).
 
 
 ### A *too long didn't read* version:
-> * 22 yo
+> * 23 yo
 > * Interested in Data Science and Machine Learning, specially Computer Vision and Natural Language Processing 
 > * Computer Engineering at UFG
 > * :smile_cat: Loves cats 
 
 ## Current Projects
 
-> - :grey_exclamation: I have a lot of problems opening the Jupyter Notebooks hosted throughout GitHub. Very often I face the _"Sorry, something went wrong. Reload?"_ error. I learned to use the [NBViewer](https://nbviewer.jupyter.org/), from Project Jupyter, to visualize the content of a Jupyter Notebook hosted on GitHub (and other platforms). It's just a matter of pasting the notebook's URL in the NBViewer.
+> - :grey_exclamation: I have a lot of problems opening Jupyter Notebooks hosted throughout GitHub. Very often I face the _"Sorry, something went wrong. Reload?"_ error. I learned to use the [NBViewer](https://nbviewer.jupyter.org/), from Project Jupyter, to visualize the content of a Jupyter Notebook hosted on GitHub (and other platforms). It's just a matter of pasting the notebook's URL in the NBViewer.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/pedrohortencio/machine-learning-gladiator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=sentiment-analysis&theme=prussian)](https://github.com/pedrohortencio/sentiment-analysis)
 
