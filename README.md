@@ -1,27 +1,25 @@
 # :wave:
 
-> - 👨‍💻 Hi! I'm 23 yo and a Computer Engineering student at Federal University of Goiás (UFG).
-> - 🔭 Currently, I'm a researcher at Artificial Intelligence Excellence Center ([CEIA/UFG](https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/)), working in NLP and Automated Machine Learning projects. 
+Hi! I'm 23 yo and a Computer Engineering student at Federal University of Goiás (UFG).
+> - 🔭 Currently, I'm a researcher at Artificial Intelligence Excellence Center ([CEIA/UFG](https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/)), working in NLP, Automated Machine Learning and Data Science projects. 
 > - :dancers: I'm interested in projects related to Artificial Intelligence and/or Data Science. 
-> - ⚡ Fun facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games (especially RPGs).
+> - ⚡ ~Fun~ facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games (especially RPGs).
 
 
 
 ## Current Projects
 
-> - :grey_exclamation: I have a lot of problems opening Jupyter Notebooks hosted throughout GitHub. Very often I face the _"Sorry, something went wrong. Reload?"_ error. I learned to use the [NBViewer](https://nbviewer.jupyter.org/), from Project Jupyter, to visualize the content of a Jupyter Notebook hosted on GitHub (and other platforms). It's just a matter of pasting the notebook's URL in the NBViewer.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=machine-learning-gladiator&theme=prussian)](https://github.com/pedrohortencio/machine-learning-gladiator)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrohortencio&repo=sentiment-analysis&theme=prussian)](https://github.com/pedrohortencio/sentiment-analysis)
-
+>  - 👨‍💻 Currently, I'm working in multiple private R&D projects related to Automated Machine Learning, Natural Language Processing and Data Science.
 
 ## Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pedrohortencio&show_icons=true&theme=prussian&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## Working With:
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />  <img alt="sklearn" src="https://img.shields.io/badge/scikit-learn.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />  <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>  <img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />  <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />  
+<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img alt="Django Rest" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ## 📫 
 
