@@ -1,9 +1,9 @@
 # :wave:
 
-Hi! I'm 24 yo and a Software Engineering student at Federal University of Goiás (UFG).
+Hi! I'm 25 yo and a Software Engineering student at Federal University of Goiás (UFG).
 > - 🔭 Currently, I'm a researcher at Artificial Intelligence Excellence Center ([CEIA/UFG](https://embrapii.org.br/en/unidades/embrapii-unit-in-artificial-intelligence-ceia-ufg-center-of-excellence-in-artificial-intelligence/)), working in NLP, Automated Machine Learning and Data Science projects. 
 > - :dancers: I'm interested in projects related to Artificial Intelligence and/or Data Science. 
-> - ⚡ ~Fun~ facts: I have 2 cats and a dog and I love them. I'm also a big fan of music, food, and games (especially RPGs).
+> - ⚡ ~Fun~ facts: I have a cat and 2 dogs and I love them. I'm also a big fan of music, food, games and ecotourism. 
 
 
 
